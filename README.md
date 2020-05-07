@@ -1,2 +1,3 @@
 # AndrewNg-ML-Notes
-AndrewNg's ML courses' assignments
+Realize AndrewNg's ML courses' assignments,including linear regression, forward/backward propogate vial python.
+Just a project by a beginner.
